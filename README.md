@@ -17,3 +17,34 @@ Eat-N-Split is a small single-page application (SPA) for users to divide bills a
 
 - React
 - useState
+
+## Getting Started
+To clone and deploy this project locally, follow these simple steps.
+
+### Prerequisites
+
+First, make sure you have the latest version of npm:
+
+```bash
+npm install npm@latest -g
+```
+
+### Installation
+
+1. Clone this repo
+
+```
+git clone https://github.com/pjf3av/eat-n-split.git
+```
+
+2. Install NPM packages
+
+```
+npm i
+```
+
+3. Start server
+
+```
+npm start
+```
