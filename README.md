@@ -1,6 +1,6 @@
 # Eat-n-Split
 
-**Note: This project is based on the [The Ultimate React Course by Jonas Schmedtmann](https://www.udemy.com/course/the-ultimate-react-course/)**.
+**Note: This project is based on [The Ultimate React Course by Jonas Schmedtmann](https://www.udemy.com/course/the-ultimate-react-course/)**.
 
 Eat-N-Split is a small single-page application (SPA) for users to divide bills among friends and calculate the overall expense shared by all participants. This project acts as a basic demonstration of understanding of state management within React applications.
 
